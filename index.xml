@@ -6,7 +6,19 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jun 2023 17:28:22 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Jul 2023 14:00:49 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BugsEncountered</title>
+      <link>/posts/bugsencountered/</link>
+      <pubDate>Sun, 02 Jul 2023 14:00:49 +0800</pubDate>
+      
+      <guid>/posts/bugsencountered/</guid>
+      <description>安装遇到的问题:hugo写好后无法在网页打开，经过查看安装指南知道了要把baseURL 设置为空。 在上传到github后，博客无法打开，并且页面显示404报错，在经过CSDN查询资料后知道了是github还没有上传完成，需要等待一些时间，在等待几分钟后成功在https://zanzeu.github.io/中显示了博客</description>
+      <content>&lt;p&gt;安装遇到的问题:hugo写好后无法在网页打开，经过查看安装指南知道了要把baseURL 设置为空。
+在上传到github后，博客无法打开，并且页面显示404报错，在经过CSDN查询资料后知道了是github还没有上传完成，需要等待一些时间，在等待几分钟后成功在https://zanzeu.github.io/中显示了博客&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>MyFirstBlog</title>
       <link>/posts/myfirstblog/</link>
